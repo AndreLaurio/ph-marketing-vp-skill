@@ -1,0 +1,21 @@
+{
+  "name": "ph-marketing-vp-skill",
+  "owner": { "name": "Andre Laurio", "url": "https://github.com/AndreLaurio" },
+  "metadata": {
+    "description": "Marketplace for the ph-marketing-vp Claude Code skill",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ph-marketing-vp",
+      "source": "./",
+      "description": "A Senior VP of Marketing for the Philippines: 90-day roadmaps with Facebook groups, channels, Taglish copy and peso budgets.",
+      "version": "1.0.0",
+      "author": { "name": "Andre Laurio" },
+      "homepage": "https://github.com/AndreLaurio/ph-marketing-vp-skill",
+      "license": "MIT",
+      "keywords": ["marketing", "philippines", "facebook-groups", "strategy", "smb"],
+      "category": "productivity"
+    }
+  ]
+}

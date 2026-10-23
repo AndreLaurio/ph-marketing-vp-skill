@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: home-kitchen-pasig
+expected_outcome: |
+  A marketing-roadmap-*.md file following the roadmap template: a named bottleneck, one
+  primary channel (local Facebook groups or FB page + Messenger), a week-by-week plan for
+  days 1-30 with concrete tasks and hours, Facebook group search terms and a posting
+  cadence that respects group rules, at least 5 ready-to-post drafts in Taglish, a peso
+  budget that totals about 5,000/month, payday (15th/30th) timing, and KPI targets marked
+  as assumptions. The chat reply is a short brief, not the whole document.

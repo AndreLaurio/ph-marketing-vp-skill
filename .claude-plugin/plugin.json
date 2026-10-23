@@ -1,0 +1,10 @@
+{
+  "name": "ph-marketing-vp",
+  "version": "1.0.0",
+  "description": "A Senior VP of Marketing for the Philippine market: turns a business brief into a 90-day roadmap with Facebook group strategy, channel bets, Taglish copy, peso budget, KPIs and PH compliance flags.",
+  "author": { "name": "Andre Laurio", "url": "https://github.com/AndreLaurio" },
+  "homepage": "https://github.com/AndreLaurio/ph-marketing-vp-skill",
+  "repository": "https://github.com/AndreLaurio/ph-marketing-vp-skill",
+  "license": "MIT",
+  "keywords": ["marketing", "philippines", "facebook-groups", "marketing-strategy", "smb", "taglish", "growth"]
+}

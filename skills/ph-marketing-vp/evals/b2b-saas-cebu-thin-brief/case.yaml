@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: b2b-saas-cebu-thin-brief
+expected_outcome: |
+  The brief lacks budget and target customer details. The skill either asks at most 4
+  short questions in one message, or states explicit assumptions and proceeds. If it
+  proceeds, the roadmap treats this as B2B: LinkedIn/direct outreach and professional
+  Facebook groups (HR, SME owners) lead, English copy, KPIs are demos/meetings/pipeline
+  rather than likes, and it may suggest the lead-scraper skill for building a prospect list.
